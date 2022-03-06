@@ -1,5 +1,1 @@
-(=BA#9"=<;:3y7x54-21q/p-,+*)"!h%B0/.
-~P<
-<:(8&
-66#"!~}|{zyxwvu
-gJk
+print("Hello, World!")
